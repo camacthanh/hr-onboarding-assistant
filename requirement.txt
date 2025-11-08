@@ -1,6 +1,7 @@
 # --- Main App ---
 streamlit
 python-dotenv
+dotenv
 
 # --- Pinecone ---
 pinecone-client
